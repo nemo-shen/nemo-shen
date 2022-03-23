@@ -13,7 +13,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-[![Header](https://raw.githubusercontent.com/nemo-shen/nemo-shen/master/readme_header.png "Header")](https://martinheinz.dev/)
+[![Header](https://raw.githubusercontent.com/nemo-shen/nemo-shen/master/readme_header.png "Header")](https://nemo-shen.dev/)
 
 # Hello! <img src="https://raw.githubusercontent.com/nemo-shen/nemo-shen/master/wave.gif" width="30px">
 
