@@ -1,4 +1,3 @@
-### Hi there 👋
 
 <!--
 **nemo-shen/nemo-shen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,6 +13,10 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+[![Header](https://raw.githubusercontent.com/nemo-shen/nemo-shen/master/readme_header.png "Header")](https://martinheinz.dev/)
+
+# Hello! <img src="https://raw.githubusercontent.com/nemo-shen/nemo-shen/master/wave.gif" width="30px">
+
 
 <a href="https://github.com/nemo-shen/nemo-shen">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nemo-shen&hide=java,html,tex&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21&langs_count=3" />
