@@ -8,14 +8,14 @@
 
 - ❤️ I love open source
 
-- 💬 Ask me about anything [here](https://github.com/nemo-shen/nemo-shen/issues)
+- 💬 Contact me ![](https://img.shields.io/github/followers/nemo-shen?logo=github&logoColor=white&color=2bbc8a) ![](https://img.shields.io/badge/Email-nemoshen94%40gmail.com-ffffff?logo=gmail&logoColor=white&color=2bbc8a) ![](https://img.shields.io/badge/Wechat-sjn946-brightgreen.svg?logo=wechat&logoColor=white&color=2bbc8a)
 
 ## 🔧 Technologies & Tools
 
-![](https://img.shields.io/badge/OS-mac-informational?style=flat-square&logo=apple&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Editor-IntelliJ_IDEA-informational?style=flat-square&logo=intellij-idea&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Code-JavaScript-informational?style=flat-square&logo=javascript&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Code-Vue-informational?style=flat-square&logo=vue.js&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/OS-mac-informational?style=flat&logo=apple&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Editor-IntelliJ_IDEA-informational?style=flat&logo=intellij-idea&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=javascript&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Code-Vue-informational?style=flat&logo=vue.js&logoColor=white&color=2bbc8a)
 
 ## 🏆 Github Profile Trophy
 [![trophy](https://github-profile-trophy.vercel.app/?username=nemo-shen&theme=nord&column=7&no-frame=true&margin-w=2&title=PR,Commits,Stars,Followers)](https://github.com/ryo-ma/github-profile-trophy)
