@@ -3,12 +3,9 @@
 ## 🤔 About me
 
 - 💼 FrontEnd Engineer
-
 - 📈 Built vant, vant-weapp and more on GitHub
-
 - ❤️ I love open source
-
-- 💬 Contact me ![](https://img.shields.io/github/followers/nemo-shen?logo=github&logoColor=white&color=2bbc8a) ![](https://img.shields.io/badge/Email-nemoshen94%40gmail.com-ffffff?logo=gmail&logoColor=white&color=2bbc8a) ![](https://img.shields.io/badge/Wechat-sjn946-brightgreen.svg?logo=wechat&logoColor=white&color=2bbc8a)
+- 💬 Contact me ![](https://img.shields.io/badge/Email-nemoshen94%40gmail.com-ffffff?logo=gmail&logoColor=white&color=2bbc8a) ![](https://img.shields.io/badge/Wechat-sjn946-brightgreen.svg?logo=wechat&logoColor=white&color=2bbc8a)
 
 ## 🔧 Technologies & Tools
 
