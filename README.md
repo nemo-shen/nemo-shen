@@ -19,7 +19,7 @@
 
 ## 📈 GitHub Stats
 
-| <a href="https://github.com/nemo-shen/nemo-shen"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nemo-shen&layout=compact&theme=vue-dark&hide_border=true" /></a> | <a href="https://github.com/nemo-shen/nemo-shen"><img align="center" src="https://github-readme-stats.vercel.app/api?username=nemo-shen&show_icons=true&theme=vue-dark&line_height=20&count_private=true&hide_border=true" alt="nemo-shen's GitHub Stats" /></a> |
+| <a href="https://github.com/nemo-shen/nemo-shen"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nemo-shen&layout=compact&theme=vue-dark&hide_border=true" /></a> | <a href="https://github.com/nemo-shen/nemo-shen"><img align="center" src="https://github-readme-stats.vercel.app/api?username=nemo-shen&disable_animations=true&show_icons=true&theme=vue-dark&line_height=20&count_private=true&hide_border=true" alt="nemo-shen's GitHub Stats" /></a> |
 | --- | --- |
 
 
