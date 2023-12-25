@@ -15,7 +15,7 @@
 ![](https://img.shields.io/badge/Code-Vue-informational?style=flat&logo=vue.js&logoColor=white&color=2bbc8a)
 
 ## 🏆 Github Profile Trophy
-[![trophy](https://github-profile-trophy.vercel.app/?username=nemo-shen&theme=flat&column=7&no-frame=true&margin-w=2&title=PR,Commits,Stars,Followers)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=nemo-shen&column=-1&margin-w=10&margin-h=10)](https://github.com/ryo-ma/github-profile-trophy)
 
 ## 📈 GitHub Stats
 
