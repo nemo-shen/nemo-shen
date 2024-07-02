@@ -46,9 +46,10 @@
         {
           "type": "git",
           "style": "plain",
-          "template": "<darkGray>on</> <white>git:</><cyan>{{ .HEAD }}</>{{ if .Working.Changed }}<red> x</>{{ end }} ",
+          "template": "{{ .UpstreamIcon }} <white>git:</><cyan>{{ .HEAD }} <green>{{if .BranchStatus }}{{ .BranchStatus }}{{ end }}</>{{ if .Working.Changed }}<red> x</>{{ end }} ",
           "properties": {
-            "fetch_status": true
+            "fetch_status": true,
+            "fetch_upstream_icon": true
           }
         },
         {
