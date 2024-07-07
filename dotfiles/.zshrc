@@ -108,16 +108,6 @@ HIST_STAMPS="%m/%d %H:%M"
 
 source $ZSH/oh-my-zsh.sh
 
-# User configuration
-
-
-# alias
-alias ll="ls -alhS"
-alias zshconfig="vim ~/.zshrc"
-#alias ohmyzsh="vim ~/.oh-my-zsh"
-#alias gstl="git stash list --pretty=format:'%C(yellow)%h %C(green)%cd %C(reset)%gs' --date=format:'%Y-%m-%d %H:%M:%S'"
-#alias gslp='git stash list --pretty=format:"%C(red)%h%C(reset) - %C(dim yellow)(%C(bold magenta)%gd%C(dim yellow))%C(reset) %<(70,trunc)%s %C(green)(%cr) %C(bold blue)<%an>%C(reset)"'
-
 #export GOROOT="/usr/local/go"
 #export GOPATH="$HOME/go"
 #PATH="$GOROOT/bin:$GOPATH:$PATH"
@@ -147,7 +137,13 @@ bindkey -v
 alias df='duf'
 alias ls='exa'
 alias vim='nvim'
+alias lg="lazygit"
+alias ll="ls -alhS"
+alias config_zsh="vim ~/.zshrc"
 alias bcopy='git branch --show-current | xargs echo -n | clipcopy && echo "copied"'
+#alias ohmyzsh="vim ~/.oh-my-zsh"
+#alias gstl="git stash list --pretty=format:'%C(yellow)%h %C(green)%cd %C(reset)%gs' --date=format:'%Y-%m-%d %H:%M:%S'"
+#alias gslp='git stash list --pretty=format:"%C(red)%h%C(reset) - %C(dim yellow)(%C(bold magenta)%gd%C(dim yellow))%C(reset) %<(70,trunc)%s %C(green)(%cr) %C(bold blue)<%an>%C(reset)"'
 #alias ps='procs'
 #alias yarn-list-link="( ls -l node_modules ; ls -l node_modules/@* ) | grep ^l"
 #alias branch_copy='git branch --show-current | xargs echo -n | clipcopy && echo "copied"'
