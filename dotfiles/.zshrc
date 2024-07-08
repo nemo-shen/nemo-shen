@@ -89,7 +89,7 @@ DISABLE_AUTO_UPDATE="true"
 # Uncomment the following line if pasting URLs and other text is messed up.
 # DISABLE_MAGIC_FUNCTIONS="true"
 
-ENABLE_CORRECTION="true"
+#ENABLE_CORRECTION="true"
 
 COMPLETION_WAITING_DOTS="true"
 
