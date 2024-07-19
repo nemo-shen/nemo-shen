@@ -22,7 +22,7 @@ plugins=(
   nvm
 )
 
-zstyle ':omz:plugins:nvm' lazy yes
+#zstyle ':omz:plugins:nvm' lazy yes
 zstyle ':omz:plugins:nvm' autoload yes
 
 ZSH_THEME=pmcgee
