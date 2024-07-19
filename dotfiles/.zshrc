@@ -13,6 +13,7 @@ path=(
   $HOME/bin:/usr/local/bin
   $PYENV_ROOT/bin
   $HOME/.jenv/bin
+  $NVM_BIN
 )
 
 plugins=(
@@ -20,9 +21,11 @@ plugins=(
   git
   zsh-autosuggestions
   nvm
+  autojump
+  command-not-found
 )
 
-#zstyle ':omz:plugins:nvm' lazy yes
+zstyle ':omz:plugins:nvm' lazy yes
 zstyle ':omz:plugins:nvm' autoload yes
 
 ZSH_THEME=pmcgee
