@@ -4,7 +4,7 @@ Open Chrome Devtool.
 
 Switch to **Sources** panel.
 
-Find file which you need to debug.
+Find file you need to debug.
 
 Click mouse right button and click Override content.
 
