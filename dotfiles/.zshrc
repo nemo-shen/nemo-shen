@@ -7,7 +7,9 @@ export PNPM_HOME="$HOME/Library/pnpm"
 export XDG_CONFIG_HOME="$HOME/.config"
 export MANPATH="/usr/local/man:$MANPATH"
 export NVM_NODEJS_ORG_MIRROR=https://npmmirror.com/mirrors/node/
+export YARN_DISTURL=https://mirrors.tuna.tsinghua.edu.cn/nodejs-release/
 export HOMEBREW_BOTTLE_DOMAIN=https://mirrors.tuna.tsinghua.edu.cn/homebrew-bottles
+export PYTHON_BUILD_MIRROR_URL="https://pypi.tuna.tsinghua.edu.cn"
 path=(
   $path
   $HOME/bin:/usr/local/bin
@@ -25,7 +27,7 @@ plugins=(
   command-not-found
 )
 
-zstyle ':omz:plugins:nvm' lazy yes
+zstyle ':omz:plugins:nvm' lazy autoload yes
 #zstyle ':omz:plugins:nvm' autoload yes
 
 ZSH_THEME=pmcgee
@@ -70,16 +72,16 @@ pyenv() {
 }
 
 # Lazyload jenv
-_jenv_loaded=false
-function _load_jenv() {
-  if [ "$_jenv_loaded" = false ]; then
-    eval "$($HOMEBREW_PREFIX/bin/jenv init -)"
-    _jenv_loaded=true
-  fi
-}
-jenv() {
-  _load_jenv
-  command jenv "$@"
-}
+# _jenv_loaded=false
+# function _load_jenv() {
+#   if [ "$_jenv_loaded" = false ]; then
+#     eval "$($HOMEBREW_PREFIX/bin/jenv init -)"
+#     _jenv_loaded=true
+#   fi
+# }
+# jenv() {
+#   _load_jenv
+#   command jenv "$@"
+# }
 
 # zprof
