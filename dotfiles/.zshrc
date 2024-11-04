@@ -16,7 +16,11 @@ path=(
   $PYENV_ROOT/bin
   $HOME/.jenv/bin
   $NVM_BIN
+  $HOME/Library/pnpm
 )
+
+# init pyenv
+eval "$(pyenv init --path)"
 
 plugins=(
   wd
@@ -27,7 +31,7 @@ plugins=(
   command-not-found
 )
 
-zstyle ':omz:plugins:nvm' lazy autoload yes
+zstyle ':omz:plugins:nvm' autoload yes
 #zstyle ':omz:plugins:nvm' autoload yes
 
 ZSH_THEME=pmcgee
@@ -59,17 +63,17 @@ alias config_proxy_conf="vim ~/.config/clash/n3.leensasf.us.yaml"
 alias bcopy='git branch --show-current | xargs echo -n | clipcopy && echo "copied"'
 
 # Lazyload pyenv
-_pyenv_loaded=false
-function _load_pyenv() {
-  if [ "$_pyenv_loaded" = false ]; then
-    eval "$($HOMEBREW_PREFIX/bin/pyenv init --path)"
-    _pyenv_loaded=true
-  fi
-}
-pyenv() {
-  _load_pyenv
-  command pyenv "$@"
-}
+# _pyenv_loaded=false
+# function _load_pyenv() {
+#   if [ "$_pyenv_loaded" = false ]; then
+#     eval "$($HOMEBREW_PREFIX/bin/pyenv init --path)"
+#     _pyenv_loaded=true
+#   fi
+# }
+# pyenv() {
+#   _load_pyenv
+#   command pyenv "$@"
+# }
 
 # Lazyload jenv
 # _jenv_loaded=false
